@@ -1,4 +1,4 @@
-packageName: cockroachdb
+packageName: cockroachdb2
 channels:
 - name: stable
   currentCSV: cockroachdb.v2.1.1
