@@ -3,7 +3,7 @@
 apiVersion: operators.coreos.com/v1alpha1
 kind: ClusterServiceVersion
 metadata:
-  name: etcdoperator.v0.9.4
+  name: etcdoperator.v0.9.5
   namespace: placeholder
   annotations:
     tectonic-visibility: ocs
